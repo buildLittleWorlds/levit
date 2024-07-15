@@ -1,6 +1,14 @@
 ---
 import "../styles/global.css";
 const { title } = Astro.props;
+
+const navItems = [
+  { href: "/tag/robots", label: "Robots" },
+  { href: "/tag/monsters", label: "Monsters" },
+  { href: "/tag/coordinator", label: "The Coordinator" },
+  { href: "/tag/geniuses", label: "Geniuses" },
+  { href: "/tag/protesters", label: "Protesters" },
+];
 ---
 
 <html lang="en">
@@ -11,11 +19,15 @@ const { title } = Astro.props;
   </head>
   <body>
     <nav>
-      <a href="#">Robots</a> |
-      <a href="#">Monsters</a> |
-      <a href="#">The Coordinator</a> |
-      <a href="#">Geniuses</a> |
-      <a href="#">Protesters</a>
+      <a href="/" class="home-link">Levit</a> |
+      {
+        navItems.map((item, index) => (
+          <>
+            <a href={item.href}>{item.label}</a>
+            {index < navItems.length - 1 && " | "}
+          </>
+        ))
+      }
     </nav>
     <main>
       <slot />

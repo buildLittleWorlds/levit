@@ -1,0 +1,58 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { getCollection, type CollectionEntry } from "astro:content";
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection("blog");
+  const uniqueTags = [
+    "robots",
+    "monsters",
+    "coordinator",
+    "geniuses",
+    "protesters",
+  ];
+
+  return uniqueTags.map((tag) => {
+    const filteredPosts = allPosts.filter((post) =>
+      post.data.tags.includes(tag)
+    );
+    return {
+      params: { tag },
+      props: { posts: filteredPosts },
+    };
+  });
+}
+
+interface Props {
+  posts: CollectionEntry<"blog">[];
+}
+
+const { tag } = Astro.params;
+const { posts } = Astro.props;
+const sortedPosts = posts.sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+const tagLabels: { [key: string]: string } = {
+  robots: "Robots",
+  monsters: "Monsters",
+  coordinator: "The Coordinator",
+  geniuses: "Geniuses",
+  protesters: "Protesters",
+};
+
+const pageTitle = tagLabels[tag as string] || tag;
+---
+
+<Layout title={`${pageTitle} - Levit`}>
+  <h1>{pageTitle}</h1>
+  <ul class="post-list">
+    {
+      sortedPosts.map((post) => (
+        <li>
+          <a href={`/blog/${post.slug}`}>{post.data.title}</a>
+        </li>
+      ))
+    }
+  </ul>
+</Layout>

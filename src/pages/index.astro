@@ -1,7 +1,21 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import { getCollection, type CollectionEntry } from "astro:content";
+
+const allPosts = await getCollection("blog");
+const sortedPosts = allPosts.sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
 ---
 
 <Layout title="Levit, a little world">
-  <h1>Levit</h1>
+  <ul class="post-list">
+    {
+      sortedPosts.map((post) => (
+        <li>
+          <a href={`/blog/${post.slug}`}>{post.data.title}</a>
+        </li>
+      ))
+    }
+  </ul>
 </Layout>
