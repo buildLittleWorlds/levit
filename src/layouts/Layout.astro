@@ -1,0 +1,24 @@
+---
+import "../styles/global.css";
+const { title } = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{title}</title>
+  </head>
+  <body>
+    <nav>
+      <a href="#">Robots</a> |
+      <a href="#">Monsters</a> |
+      <a href="#">The Coordinator</a> |
+      <a href="#">Geniuses</a> |
+      <a href="#">Protesters</a>
+    </nav>
+    <main>
+      <slot />
+    </main>
+  </body>
+</html>
