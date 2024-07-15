@@ -54,3 +54,8 @@ h1 {
 .post-list a:hover {
     text-decoration: underline;
 }
+
+.home-link {
+    font-weight: bold;
+    margin-right: 0.5rem;
+  }
