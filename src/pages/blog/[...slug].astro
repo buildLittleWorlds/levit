@@ -21,8 +21,7 @@ const { Content } = await entry.render();
 <Layout title={entry.data.title}>
   <article>
     <h1>{entry.data.title}</h1>
-    <p>Published on: {entry.data.pubDate.toDateString()}</p>
-    <p>By: {entry.data.author}</p>
+    <p>[{entry.data.pubDate.toDateString()}]</p>
     <Content />
   </article>
 </Layout>

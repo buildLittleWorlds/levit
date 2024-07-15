@@ -6,4 +6,5 @@ author: "Dan Plate"
 tags: ["robots", "coordinator"]
 ---
 
-# Content about robots here
+a cooordinator can be said to have access to everything about a real robot.
+
