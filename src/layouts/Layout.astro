@@ -1,14 +1,8 @@
 ---
 import "../styles/global.css";
+import Footer from "../components/Footer.astro";
+import { tags } from "../data/tags";
 const { title } = Astro.props;
-
-const navItems = [
-  { href: "/tag/robots", label: "Robots" },
-  { href: "/tag/monsters", label: "Monsters" },
-  { href: "/tag/coordinator", label: "The Coordinator" },
-  { href: "/tag/geniuses", label: "Geniuses" },
-  { href: "/tag/protesters", label: "Protesters" },
-];
 ---
 
 <html lang="en">
@@ -21,10 +15,10 @@ const navItems = [
     <nav>
       <a href="/" class="home-link">Build Little Worlds</a> |
       {
-        navItems.map((item, index) => (
+        tags.map((tag, index) => (
           <>
-            <a href={item.href}>{item.label}</a>
-            {index < navItems.length - 1 && " | "}
+            <a href={`/tag/${tag.slug}`}>{tag.label}</a>
+            {index < tags.length - 1 && " | "}
           </>
         ))
       }
@@ -32,5 +26,6 @@ const navItems = [
     <main>
       <slot />
     </main>
+    <Footer />
   </body>
 </html>

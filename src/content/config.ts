@@ -1,4 +1,11 @@
 import { defineCollection, z } from 'astro:content';
+import { tags } from '../data/tags';
+
+// Create an array of valid tag slugs
+const validTags = tags.map(tag => tag.slug);
+
+// Create a union type of all valid tags
+type ValidTag = typeof validTags[number];
 
 const blogCollection = defineCollection({
   type: 'content',
@@ -7,8 +14,7 @@ const blogCollection = defineCollection({
     pubDate: z.date(),
     description: z.string(),
     author: z.string().default('Anonymous'),
-    tags: z.array(z.string()).default([]),
-    // Remove the slug field from here if it exists
+    tags: z.array(z.enum(validTags as [ValidTag, ...ValidTag[]])).default([]),
   }),
 });
 
