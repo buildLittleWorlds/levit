@@ -9,7 +9,7 @@ millie wrote and sang [a song](https://pidgin-songs.netlify.app/for-di-other-sid
 
 that's neither here nor there.
 
-she could of made a song with a more doom and loneliness in it if she'd put her mind to it for about a thousand years but she only had a morning so this was the darkest she could get.
+she could of made a song with more doom and loneliness in it if she'd put her mind to it for about a thousand years but she only had a morning so this was the darkest she could get.
 
 
 
