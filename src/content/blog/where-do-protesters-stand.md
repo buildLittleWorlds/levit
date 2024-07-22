@@ -1,13 +1,15 @@
 ---
-title: "Where Do Protesters Stand?"
-pubDate: 2024-07-14
-description: "a post about how a protester takes up a position"
-author: "Dan Plate"
-tags: ["rebel"]
+title: "pidgin railroad"
+pubDate: 2024-07-22
+description: "about millie's lonely railroad song"
+tags: ["millie"]
 ---
 
-protesters have to stand somewhere. but where?
+millie wrote and sang [a song](https://pidgin-songs.netlify.app/for-di-other-side) ripping off obviously both the good book and one of our favorites around here (Man of Constant Sorrow) - she pulled some of the stuff from psalm 102 pidgined around like she does with em.
 
-the challenge is the fluid movement of society, the irritation felt by everyone (even other protesters not showing up for this particular protest, to be honest) at the presence of the protester.
+that's neither here nor there.
 
-everyone wants to get where they're going.
+she could of made a song with a more doom and loneliness in it if she'd put her mind to it for about a thousand years but she only had a morning so this was the darkest she could get.
+
+
+

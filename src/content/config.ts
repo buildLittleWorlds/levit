@@ -13,7 +13,6 @@ const blogCollection = defineCollection({
     title: z.string(),
     pubDate: z.date(),
     description: z.string(),
-    author: z.string().default('Anonymous'),
     tags: z.array(z.enum(validTags as [ValidTag, ...ValidTag[]])).default([]),
   }),
 });
