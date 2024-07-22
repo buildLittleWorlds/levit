@@ -2,7 +2,7 @@
 title: "pidgin railroad"
 pubDate: 2024-07-22
 description: "about millie's lonely railroad song"
-tags: ["millie"]
+tags: ["moose"]
 ---
 
 millie wrote and sang [a song](https://pidgin-songs.netlify.app/for-di-other-side) ripping off obviously both the good book and one of our favorites around here (Man of Constant Sorrow) - she pulled some of the stuff from psalm 102 pidgined around like she does with em.

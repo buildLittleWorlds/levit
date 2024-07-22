@@ -5,9 +5,9 @@ export interface Tag {
   
   export const tags: Tag[] = [
     { slug: "moose", label: "moose" },
-    { slug: "millie", label: "millie" },
+    { slug: "wayback", label: "wayback" },
     { slug: "coordinator", label: "The Coordinator" },
-    { slug: "rants", label: "rants" },
+    { slug: "events", label: "events" },
     { slug: "weather", label: "weather" },
   ];
   
