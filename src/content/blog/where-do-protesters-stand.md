@@ -3,7 +3,7 @@ title: "Where Do Protesters Stand?"
 pubDate: 2024-07-14
 description: "a post about how a protester takes up a position"
 author: "Dan Plate"
-tags: ["pidgin"]
+tags: ["rebel"]
 ---
 
 protesters have to stand somewhere. but where?
