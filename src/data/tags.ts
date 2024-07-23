@@ -7,7 +7,7 @@ export interface Tag {
     { slug: "moose", label: "moose" },
     { slug: "wayback", label: "wayback" },
     { slug: "coordinator", label: "The Coordinator" },
-    { slug: "events", label: "events" },
+    { slug: "tap-tap", label: "tap-tap" },
     { slug: "weather", label: "weather" },
   ];
   
