@@ -6,6 +6,7 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro check && astro build",
+    "generate-weather": "cd .. && python levit-weather/generate_weather_post.py",
     "preview": "astro preview",
     "astro": "astro"
   },
