@@ -1,5 +1,5 @@
 ---
-title: "My Definition of a Coordinator"
+title: "The Coordinator"
 pubDate: 2024-07-25
 description: "lays out my definition of what I will mean when I use the term coordinator"
 tags: ["coordinator"]

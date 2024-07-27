@@ -2,7 +2,7 @@
 title: "What Does It Mean to be Free?"
 pubDate: 2024-07-27
 description: "provides competing rationales for the freedom of each character type"
-tags: ["genius", "monster", "coordinator", "rebel", "genius"]
+tags: ["robot", "monster", "coordinator", "rebel", "genius"]
 ---
 
 In discussions about human nature and societal roles, the concept of freedom often plays a central part. This document presents arguments for why each of five distinct character types - Coordinator, Genius, Monster, Rebel, and Robot - could be considered the "most free" within their societal context. 

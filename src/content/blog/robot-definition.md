@@ -1,5 +1,5 @@
 ---
-title: "My Definition of a Robot"
+title: "The Robot"
 pubDate: 2024-07-25
 description: "lays out my definition of what I will mean when I use the term robot"
 tags: ["robot"]

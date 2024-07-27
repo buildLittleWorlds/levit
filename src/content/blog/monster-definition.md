@@ -1,5 +1,5 @@
 ---
-title: "My Definition of a Monster"
+title: "The Monster"
 pubDate: 2024-07-26
 description: "lays out my definition of what I will mean when I use the term monster"
 tags: ["monster"]
