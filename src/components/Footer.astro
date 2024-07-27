@@ -1,15 +1,9 @@
 ---
-
+const currentYear = new Date().getFullYear();
 ---
 
 <footer>
-  <a
-    href="https://pidgin-songs.netlify.app/"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    songs from a side-project + some highbrow talk
-  </a>
+  <p>&copy; {currentYear} Daniel Plate. All rights reserved.</p>
 </footer>
 
 <style>
@@ -20,15 +14,9 @@
     border-top: 1px solid #eaeaea;
   }
 
-  footer a {
+  footer p {
     color: #333;
-    text-decoration: none;
     font-size: 1rem;
-    transition: color 0.3s ease;
-  }
-
-  footer a:hover {
-    text-decoration: underline;
-    color: #0077b5;
+    margin: 0;
   }
 </style>

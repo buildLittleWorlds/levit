@@ -1,55 +1,29 @@
 ---
 title: "The Monster"
 pubDate: 2024-07-26
-description: "lays out my definition of what I will mean when I use the term monster"
+description: "lays out my definition of the term monster"
 tags: ["monster"]
 ---
 
-# My Definition of a 'Monster'
+# The Monster: Society's Misfit
 
-## Proposed Definition:
-A "monster" is an individual who consistently exhibits behaviors or characteristics that significantly deviate from societal norms, resulting in observable difficulties in integration and function within the established systems of their environment.
+Imagine walking into a bustling coffee shop on a Monday morning. The line is long, but everyone shuffles forward in an orderly fashion, exchanging polite nods and muted conversations. Suddenly, the door bursts open. A disheveled figure stumbles in, muttering loudly to themselves. Their clothes are mismatched and stained, their hair wild and unkempt. As they approach the counter, they cut in front of several people, ignoring the protests and shocked stares. When it's finally their turn to order, they launch into a rambling, incoherent speech about government conspiracies hidden in coffee beans. The barista, visibly uncomfortable, tries to steer the conversation back to placing an order, but the individual becomes agitated, voice rising, gestures growing more erratic. Other customers edge away, averting their eyes. Someone discreetly calls the police.
 
-## Key Components:
+This scene illustrates the essence of what we might call a "monster" in society. But what exactly defines this troubling figure?
 
-1. **Observable Behaviors**: 
-   - Actions or patterns of conduct that can be empirically noted
-   - No moral judgment on whether these behaviors are "good" or "bad"
+A monster is someone who consistently behaves in ways that clash dramatically with social norms, making it nearly impossible for them to fit into everyday life. Unlike rebels, who choose to challenge society, monsters often can't help but disrupt the social order. Their actions aren't a conscious protest; rather, they stem from a fundamental inability to grasp or follow the unwritten rules that most of us take for granted.
 
-2. **Significant Deviation from Norms**:
-   - Behaviors or characteristics that noticeably differ from what is typical in the given society
-   - This deviation is substantial enough to be readily apparent to others
+Key traits of the monster include:
 
-3. **Difficulty in Integration**:
-   - Challenges in adapting to or participating in common societal structures (e.g., work, education, social interactions)
-   - These difficulties are externally visible and not based on internal experiences
+1. Visible oddity: Their appearance or behavior immediately stands out as different, often in unsettling ways.
+2. Chronic dysfunction: They struggle to hold jobs, maintain relationships, or engage in basic social interactions.
+3. Unintentional disruption: Their presence tends to create chaos or discomfort, even when they're not trying to cause trouble.
+4. Societal rejection: Others often avoid or exclude them, viewing them as threatening or simply too strange to deal with.
 
-4. **Systemic Dysfunction**:
-   - Inability or struggle to operate effectively within the established systems of the environment
-   - This dysfunction is consistent across multiple aspects of societal engagement
+It's crucial to understand that being a "monster" isn't about moral judgments. Someone can be kind-hearted yet still fit this category if their behavior consistently clashes with societal expectations. Conversely, a charming sociopath might not be a monster if they can skillfully mimic social norms.
 
-5. **Consistency**:
-   - The behaviors and difficulties are not isolated incidents but form a pattern over time
-   - The individual consistently struggles to align with societal expectations in various contexts
+The monster stands in stark contrast to the "robot" – someone who seamlessly blends into society's routines. While robots navigate social situations with ease, monsters stumble through them, leaving a wake of confusion and discomfort.
 
-6. **Context-Dependent**:
-   - Recognition that what constitutes a "monster" may vary between different societies or systems
-   - The definition applies within the context of the specific environment the individual inhabits
+It's worth noting that what constitutes a "monster" can vary between cultures or even subcultures. Someone seen as a monster in a conservative small town might find acceptance in a more diverse urban environment. This highlights the relative nature of social norms and the challenges faced by those who don't fit the mold of their immediate surroundings.
 
-## Observable Indicators:
-
-- Frequent conflicts with authority figures or institutions
-- Recurring violations of social norms or unwritten rules
-- Persistent inability to maintain employment or education
-- Consistent difficulty in forming or maintaining social relationships
-- Regular interventions by social services or law enforcement
-- Visible social isolation or exclusion from community activities
-- Repeated failures to meet societal milestones or expectations
-
-## Important Considerations:
-
-1. This definition focuses on external observations and does not account for internal experiences or motivations.
-2. It does not make judgments about the validity or morality of societal norms themselves.
-3. The term "monster" is used descriptively, not pejoratively, in this context.
-4. This definition allows for the possibility that an individual might be a "monster" in one system but not in another.
-5. It acknowledges that societal norms and systems can change over time, potentially altering who might be considered a "monster."
+Understanding the concept of the "monster" in society can help us reflect on our own biases and the often arbitrary nature of social rules. It challenges us to consider how we treat those who are different and prompts important questions about inclusivity, mental health support, and the balance between social order and individual expression.
