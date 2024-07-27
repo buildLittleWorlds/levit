@@ -4,11 +4,11 @@ export interface Tag {
   }
   
   export const tags: Tag[] = [
-    { slug: "monsters", label: "Monsters" },
-    { slug: "robots", label: "Robots" },
+    { slug: "monster", label: "Monsters" },
+    { slug: "robot", label: "Robots" },
     { slug: "coordinator", label: "The Coordinator" },
-    { slug: "rebels", label: "Rebels" },
-    { slug: "geniuses", label: "Geniuses" },
+    { slug: "rebel", label: "Rebels" },
+    { slug: "genius", label: "Geniuses" },
   ];
   
   export const getTagLabel = (slug: string): string => {
