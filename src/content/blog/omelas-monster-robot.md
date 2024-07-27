@@ -1,6 +1,6 @@
 ---
 title: "The Child in Omelas - Monster or Robot?"
-pubDate: 2024-07-25
+pubDate: 2024-07-26
 description: "presents two short interpretations of the Omelas story"
 tags: ["monster", "robot"]
 ---

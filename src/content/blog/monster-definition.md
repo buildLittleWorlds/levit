@@ -1,6 +1,6 @@
 ---
 title: "The Monster"
-pubDate: 2024-07-26
+pubDate: 2024-07-25
 description: "lays out my definition of the term monster"
 tags: ["monster"]
 ---
