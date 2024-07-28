@@ -7,7 +7,7 @@ tags: ["coordinator"]
 
 # The Coordinator: Society's Active Manager
 
-Imagine a busy city hall on a typical weekday. Amidst the hustle and bustle, one figure stands out - not for being loud or flashy, but for how everything seems to revolve around them. This is Sarah, the city's chief of staff. She moves from desk to desk, her tablet in hand, solving problems before most people even realize they exist. 
+Imagine a busy city hall on a typical weekday. In the middle of all this, one figure stands out - not for being loud or flashy, but for how everything seems to revolve around them. This is Sarah, the city's chief of staff. She moves from desk to desk, her tablet in hand, solving problems before most people even realize they exist. 
 
 A concerned citizen approaches, complaining about a new traffic light causing congestion. Sarah listens attentively, then explains how the light is part of a larger plan to improve pedestrian safety. She doesn't dismiss the complaint but instead offers to adjust the light's timing. The citizen leaves, not entirely happy, but feeling heard.
 

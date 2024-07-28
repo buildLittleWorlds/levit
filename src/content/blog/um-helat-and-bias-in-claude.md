@@ -1,7 +1,7 @@
 ---
-title: "Um-Helat and Bias in Claude - the Case of Milton's 'Areopagitica' - Part 1"
+title: "Um-Helat and Bias in Claude - the Case of Milton's 'Areopagitica'"
 pubDate: 2024-07-28
-description: "example of bias in CLaude preventing an application of John Milton's freedom of thought argument"
+description: "example of bias in Claude preventing an application of John Milton's freedom of thought argument"
 tags: ["coordinator", "rebel"]
 ---
 
@@ -34,7 +34,7 @@ Here is Claude's reply to my follow-up:
 
 > Would you be interested in exploring the text from that more analytical perspective? I'm happy to delve into the content and structure of the argument without making value judgments about its validity or applicability to other contexts.
 
-Claude has been fine in other cases with role-playing different philosophical perspectives based on canonical texts. But this time, Claude point-blank refuses. I want to explore
+Claude has been fine in other cases with role-playing different philosophical perspectives based on canonical texts. But this time, Claude point-blank refuses. I want to continue to explore
 
 - whether I can get more explanation of why "The Ones Who Stay and Fight" is off-limits for Claude
 - whether I can get Claude to engage

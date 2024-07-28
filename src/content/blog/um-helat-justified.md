@@ -1,11 +1,9 @@
 ---
-title: "Um-Helat and Bias in Claude - the Case of Milton's 'Areopagitica' - Part 2"
+title: "The Narrator of Um-Helat - the Story's Perpsective"
 pubDate: 2024-07-28
-description: "continued exploration of Um Helat using Claude for analysis"
+description: "analysis of the point of view of the narrator in 'The Ones Who Stay and Fight'"
 tags: ["coordinator", "rebel"]
 ---
-
-# The Ethics of Utopia: An Analysis of "The Ones Who Stay and Fight"
 
 ## 1. Introduction and Summary
 
