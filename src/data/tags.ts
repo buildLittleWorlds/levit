@@ -9,6 +9,7 @@ export interface Tag {
     { slug: "coordinator", label: "The Coordinator" },
     { slug: "rebel", label: "Rebels" },
     { slug: "genius", label: "Geniuses" },
+    { slug: "demon", label: "Demons" },
   ];
   
   export const getTagLabel = (slug: string): string => {
