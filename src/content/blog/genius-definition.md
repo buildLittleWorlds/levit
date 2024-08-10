@@ -2,7 +2,7 @@
 title: "The Genius"
 pubDate: 2024-07-25
 description: "lays out my definition of the term genius"
-tags: ["genius"]
+tags: ["genius", "design-system"]
 ---
 
 # The Genius: Society's Paradoxical Innovator in Contemporary Liberal Systems

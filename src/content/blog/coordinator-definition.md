@@ -2,7 +2,7 @@
 title: "The Coordinator"
 pubDate: 2024-07-25
 description: "lays out my definition of the term coordinator"
-tags: ["coordinator"]
+tags: ["coordinator", "design-system"]
 ---
 
 # The Coordinator: Paradoxical Architect of Neutral Space in Contemporary Liberal Systems
