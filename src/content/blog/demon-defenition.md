@@ -9,9 +9,9 @@ tags: ["demon"]
 
 Maple Grove, a quintessential American suburb, prides itself on its excellent schools, manicured lawns, and tight-knit community. The annual summer block party on Oak Street is in full swing - children splash in inflatable pools, the air filled with the scent of grilling burgers and the sound of neighborly chatter.
 
-Amidst this scene of suburban bliss, a new family has just moved in. The Morleys - John, Sarah, and their 10-year-old son Ethan - seem pleasant enough at first glance. But unbeknownst to the residents of Maple Grove, the Morleys are no longer themselves. An ancient, malevolent entity - a true demon in every sense of the word - has taken possession of the family, using them as vessels to infiltrate and corrupt this idyllic community.
+Amidst this scene of suburban bliss, a new family has just moved in. The Morleys - John, Sarah, and their 10-year-old son Jeremy - seem pleasant enough at first glance. But unbeknownst to the residents of Maple Grove, the Morleys are no longer themselves. An ancient, malevolent entity - a true demon in every sense of the word - has taken possession of the family, using them as vessels to infiltrate and corrupt this idyllic community.
 
-The demon's influence is subtle but profound. Those who shake John's hand feel a chill run through them, an inexplicable sense of dread lingering long after the contact. Women who speak with Sarah find themselves sharing their deepest insecurities and resentments, only to feel hollow and drained afterwards. Children who play with Ethan come home with strange bruises they can't explain and nightmares they can't shake.
+The demon's influence is subtle but profound. Those who shake John's hand feel a chill run through them, an inexplicable sense of dread lingering long after the contact. Women who speak with Sarah find themselves sharing their deepest insecurities and resentments, only to feel hollow and drained afterwards. Children who play with Jeremy come home with strange bruises they can't explain and nightmares they can't shake.
 
 Over the next few weeks, the atmosphere in Maple Grove shifts dramatically. Neighbors who once got along find themselves in bitter arguments. Loving couples file for divorce. Star students begin to fail classes and act out violently. The local animal shelter reports a disturbing increase in cases of animal cruelty.
 
