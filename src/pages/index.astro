@@ -4,18 +4,22 @@ import { getCollection, type CollectionEntry } from "astro:content";
 
 const allPosts = await getCollection("blog");
 const sortedPosts = allPosts.sort(
-  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 ---
 
 <Layout title="Build Little Worlds">
-  <ul class="post-list">
-    {
-      sortedPosts.map((post) => (
-        <li>
-          <a href={`/blog/${post.slug}`}>{post.data.title}</a>
-        </li>
-      ))
-    }
-  </ul>
+  <main class="max-w-2xl mx-auto">
+    <ul class="space-y-4">
+      {
+        sortedPosts.map((post) => (
+          <li>
+            <a href={`/blog/${post.slug}`} class="text-lg hover:underline">
+              {post.data.title}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </main>
 </Layout>
