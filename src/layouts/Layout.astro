@@ -3,6 +3,9 @@ import "../styles/global.css";
 import Footer from "../components/Footer.astro";
 import { tags } from "../data/tags";
 const { title } = Astro.props;
+
+const topTags = tags.filter((tag) => tag.position === "top");
+const sideTags = tags.filter((tag) => tag.position === "side");
 ---
 
 <html lang="en">
@@ -15,19 +18,53 @@ const { title } = Astro.props;
     <nav>
       <a href="/" class="home-link">Build Little Worlds</a> |
       {
-        tags.map((tag, index) => (
+        topTags.map((tag, index) => (
           <>
             <a href={`/tag/${tag.slug}`}>{tag.label}</a>
-            {index < tags.length - 1 && " | "}
+            {index < topTags.length - 1 && " | "}
           </>
         ))
       }
       | <a href="/about">About</a>
     </nav>
-    <main>
-      <!-- <h1>AI for World-Builders</h1> -->
-      <slot />
-    </main>
+    <div class="content-wrapper">
+      <main>
+        <slot />
+      </main>
+      <aside>
+        <h3>Categories</h3>
+        <ul>
+          {
+            sideTags.map((tag) => (
+              <li>
+                <a href={`/tag/${tag.slug}`}>{tag.label}</a>
+              </li>
+            ))
+          }
+        </ul>
+      </aside>
+    </div>
     <Footer />
   </body>
 </html>
+
+<style>
+  .content-wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+  main {
+    flex: 1;
+    padding-right: 2rem;
+  }
+  aside {
+    width: 200px;
+  }
+  aside ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  aside li {
+    margin-bottom: 0.5rem;
+  }
+</style>
