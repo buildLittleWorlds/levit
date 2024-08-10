@@ -5,40 +5,32 @@ description: "lays out my definition of the term demon"
 tags: ["demon"]
 ---
 
-# The Demon: The Intrusive Supernatural in Modern Liberal Systems
+# The Demon: The Intrusive Supernatural in Contemporary Liberal Systems
 
-Picture a cutting-edge research facility on the outskirts of a major metropolitan area. Scientists and engineers work tirelessly on projects pushing the boundaries of quantum computing, artificial intelligence, and biotechnology. The facility is a beacon of progress, embodying the pinnacle of rational, scientific achievement in our modern liberal society.
+Maple Grove, a quintessential American suburb, prides itself on its excellent schools, manicured lawns, and tight-knit community. The annual summer block party on Oak Street is in full swing - children splash in inflatable pools, the air filled with the scent of grilling burgers and the sound of neighborly chatter.
 
-One day, inexplicable events begin to occur. Experiments yield impossible results. Highly stable quantum states fluctuate wildly. AI systems generate outputs that defy their programming, spouting what seems like ancient, unknown languages. 
+Amidst this scene of suburban bliss, a new family has just moved in. The Morleys - John, Sarah, and their 10-year-old son Jeremy - seem pleasant enough at first glance. John, with his charming smile, flips burgers alongside other dads. Sarah engages in small talk with the neighborhood moms. Jeremy plays with the other children.
 
-As confusion turns to fear, a visiting researcher begins to exhibit bizarre behavior. Their eyes glow with an otherworldly light as they speak of realities beyond human comprehension. They demonstrate knowledge of cosmic secrets and perform acts that defy the laws of physics. The researcher's influence spreads, corrupting both people and machines, turning the facility into a nightmarish realm where the laws of nature no longer apply.
+But something is off. Those who shake John's hand feel a chill run through them, an inexplicable sense of dread lingering long after the contact. Women who speak with Sarah find themselves sharing their deepest insecurities and resentments, only to feel hollow and drained afterwards. Children who play with Jeremy come home with strange bruises they can't explain and nightmares they can't shake.
 
-Attempts to contain the situation through scientific means prove futile. The military is called in, but their weapons are useless against this intangible threat. As the anomaly spreads beyond the facility's borders, society faces a force that challenges the very foundations of its rational, secular worldview. This is not merely a scientific mystery or a security threat; it's an assault on reality itself.
+Over the next few weeks, the atmosphere in Maple Grove shifts subtly but unmistakably. Neighbors who once got along find themselves in bitter arguments. Loving couples file for divorce. Star students begin to fail classes and act out violently. The local animal shelter reports a disturbing increase in cases of animal cruelty.
 
-This chilling scenario illustrates the essence of what we might term a "demon" in the context of modern Western liberal societies. But what exactly defines this malevolent entity, and how does it challenge the very foundations of our rational, secular world?
+At the center of it all are the Morleys, always present but never directly implicated. They attend every PTA meeting, every neighborhood watch gathering, every local event. Their influence spreads like a quiet poison, bringing out the worst in everyone around them.
 
-Key characteristics of the demon include:
+When confronted, the Morleys respond with perfect politeness and seeming innocence. Yet those who challenge them often find themselves facing inexplicable misfortunes - sudden illnesses, financial ruin, or freak accidents.
 
-1. Absolute malevolence: Demons actively seek to inflict harm, suffering, and destruction on humans and human society. This is not for any comprehensible motive, but as an end in itself.
-2. Supernatural nature: Unlike other monsters that can be explained through human psychology, sociology, or biology, demons exist beyond the realm of scientific explanation.
-3. Possession and corruption: Demons often operate by possessing or corrupting individuals, using them as vessels to spread their destructive influence.
-4. Resistance to integration: Demons are fundamentally incompatible with any form of social order or harmony.
-5. Existential threat: Demons pose not just a disruption to society, but an existential threat to its very foundations.
-6. Inexplicable powers: Demons often exhibit abilities that defy natural laws, such as superhuman strength, knowledge of unknown languages, or the power to manipulate physical reality.
-7. Resistance to conventional interventions: Medical, psychological, or social interventions that might help other types of monsters are utterly ineffective against demons.
+The local authorities are at a loss. There's no evidence of wrongdoing, no laws being broken that they can pin down. Yet the community is falling apart, consumed by a malaise that defies rational explanation.
 
-The demon stands apart from all other character types in modern Western liberal societies. Its very existence challenges the fundamental assumptions upon which these societies are built - rationality, scientific understanding, and the belief in human agency and progress.
+This scenario illustrates the "demon" in contemporary liberal societies - a force of genuine evil that operates within ordinary contexts, corrupting and destroying from within.
 
-In the context of modern Western liberalism, demons represent an intrusion of the supernatural into a world that has largely rejected such concepts. They embody a form of evil that cannot be reasoned with, rehabilitated, or integrated into the social fabric. This puts them at odds with the liberal ideals of inclusivity, rational discourse, and the belief in human perfectibility.
+Key attributes of the demon archetype in this context include:
 
-The presence of demons in a society forces a confrontation between the secular, rational worldview of modern liberalism and older, often suppressed beliefs in supernatural forces. This confrontation can reveal the limits of scientific explanation and liberal tolerance, challenging the very foundations of modern Western thought.
+1. Subtle malevolence: The evil isn't overt or supernatural in appearance, but works through influence and corruption.
+2. Exploitation of social norms: The demons use the structures of polite society to shield their activities and spread their influence.
+3. Amplification of human flaws: They bring out and exacerbate the worst aspects of human nature.
+4. Resistance to conventional intervention: Social services, law enforcement, and community leaders find themselves powerless to address the root of the problem.
+5. Existential threat: While not overtly supernatural, their presence poses a fundamental threat to the moral and social fabric of the community.
 
-Moreover, the demon serves as a stark reminder of the existence of absolute evil - a concept that modern liberal societies often struggle to grapple with. In a world that seeks to understand and rehabilitate even the most antisocial elements, the demon represents an unredeemable, implacable foe.
+This incarnation of the demon challenges contemporary liberal societies by operating within their structures while completely subverting their values. It exposes the vulnerabilities in our social systems and the limits of our ability to combat evil that doesn't break any specific laws but corrodes the very foundation of community and civility.
 
-The concept of demons in modern liberal societies raises profound questions about the nature of reality, the limits of human understanding, and the boundaries of social inclusion. It challenges us to consider how our rationalist, secular worldview would cope with the intrusion of genuinely supernatural evil.
-
-Understanding the demon archetype, even in a metaphorical sense, provides insight into how societies grapple with inexplicable evil or seemingly insurmountable challenges. It highlights the human tendency to seek explanations for the unexplainable and to externalize extreme forms of malevolence.
-
-In the context of our character typology, the demon serves as a reminder that no matter how comprehensive our understanding of human nature and social dynamics, there may always be forces beyond our comprehension or control. It stands as a challenge to the other character types - the coordinator's attempts at neutral management, the robot's conformity, the rebel's principled opposition, the monster's unintentional disruption, and even the genius's innovative insights all fall short in the face of absolute, supernatural evil.
-
-Whether viewed as literal entities or as metaphors for the darkest aspects of human nature, the concept of demons serves as a reminder of the enduring human struggle to comprehend and confront forces that seem to exist beyond our understanding or control. In a world that often seeks rational explanations and inclusive solutions, demons represent the ultimate "other" - a form of monster that defies integration, understanding, or redemption, challenging the very core of modern liberal thought and institutions.
+The scenario forces us to confront uncomfortable questions about the nature of evil, the fragility of social bonds, and the potential for corruption within seemingly idyllic settings. It challenges our assumptions about progress, rationality, and the capacity of modern institutions to protect us from more insidious forms of harm.
