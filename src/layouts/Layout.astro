@@ -2,6 +2,8 @@
 import "../styles/global.css";
 import Footer from "../components/Footer.astro";
 import { tags } from "../data/tags";
+import { Image } from "astro:assets";
+
 const { title } = Astro.props;
 
 const topTags = tags.filter((tag) => tag.position === "top");
@@ -32,7 +34,7 @@ const sideTags = tags.filter((tag) => tag.position === "side");
         <slot />
       </main>
       <aside>
-        <h3>Categories</h3>
+        <h3>Ways to Build</h3>
         <ul>
           {
             sideTags.map((tag) => (
@@ -52,6 +54,7 @@ const sideTags = tags.filter((tag) => tag.position === "side");
   .content-wrapper {
     display: flex;
     justify-content: space-between;
+    position: relative; /* Add this */
   }
   main {
     flex: 1;

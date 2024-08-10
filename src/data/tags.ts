@@ -11,9 +11,9 @@ export const tags: Tag[] = [
   { slug: "rebel", label: "Rebels", position: 'top' },
   { slug: "genius", label: "Geniuses", position: 'top' },
   { slug: "demon", label: "Demons", position: 'top' },
-  { slug: "lists", label: "Lists", position: 'side' },
-  { slug: "experiment", label: "Experiment", position: 'side' },
-  { slug: "design", label: "Design", position: 'side' },
+  { slug: "list", label: "List", position: 'side' },
+  { slug: "thought-experiment", label: "Thought Experiment", position: 'side' },
+  { slug: "design-system", label: "Design System", position: 'side' },
   { slug: "narrative", label: "Narrative", position: 'side' },
   { slug: "rhetoric", label: "Rhetoric", position: 'side' },
 ];
