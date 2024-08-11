@@ -5,7 +5,7 @@ description: "lays out my definition of the term genius"
 tags: ["genius", "design-system"]
 ---
 
-# The Genius: Society's Paradoxical Innovator in Contemporary Liberal Systems
+## The Genius: Society's Paradoxical Innovator in Contemporary Liberal Systems
 
 The auditorium at Tech Futures Conference falls silent as Dr. Aisha Malik takes the stage. At 29, she's already a legend in the field of quantum computing and artificial intelligence. Her appearance is unremarkable - jeans, sneakers, and a simple blouse - but her presence is magnetic.
 

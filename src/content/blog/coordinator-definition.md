@@ -5,7 +5,7 @@ description: "lays out my definition of the term coordinator"
 tags: ["coordinator", "design-system"]
 ---
 
-# The Coordinator: Paradoxical Architect of Neutral Space in Contemporary Liberal Systems
+## The Coordinator: Paradoxical Architect of Neutral Space in Contemporary Liberal Systems
 
 The bustling corridors of Central High School fall silent as Principal Elena Vasquez strides purposefully towards the cafeteria. At 52, her salt-and-pepper hair and warm yet authoritative demeanor command respect from students and faculty alike. Today, she faces a challenge that will test her skills as a coordinator: mediating a heated dispute between student groups over the allocation of limited resources for after-school programs.
 

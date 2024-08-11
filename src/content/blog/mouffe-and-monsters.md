@@ -5,7 +5,7 @@ description: "extended comments about Mouffe's political philosophy in context o
 tags: ["monster"]
 ---
 
-# Chantal Mouffe and the Societal Monster: A Case Study in Agonistic Democracy
+## Chantal Mouffe and the Societal Monster: A Case Study in Agonistic Democracy
 
 In the intersection of political theory and literature, we often find compelling ways to explore complex ideas. Today, we're going to examine the concept of the societal "monster" through the lens of Chantal Mouffe's political philosophy, using a fictional scenario to bring these ideas to life.
 

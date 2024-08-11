@@ -5,7 +5,7 @@ description: "explains tensions between western democracy and the coordinator"
 tags: ["coordinator"]
 ---
 
-# Balancing Act: Coordinators in Western Liberal Technocratic Democracies
+## Balancing Act: Coordinators in Western Liberal Technocratic Democracies
 
 The tensions between technocratic efficiency, liberal values emphasizing individual autonomy, and democratic processes in western societies can be better understood through the lens of the revised coordinator character type and its interactions with other character types. This analysis will examine how these societies attempt to balance the creation of neutral public spaces with individual rights, freedoms, and democratic participation, focusing on two key examples: algorithmic sentencing and environmental regulations.
 
