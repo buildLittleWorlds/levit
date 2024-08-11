@@ -8,7 +8,7 @@ export async function getStaticPaths() {
 
   return tags.map(({ slug }) => {
     const filteredPosts = allPosts.filter((post) =>
-      post.data.tags.includes(slug)
+      post.data.tags.includes(slug),
     );
     return {
       params: { tag: slug },
@@ -24,19 +24,24 @@ interface Props {
 const { tag } = Astro.params;
 const { posts } = Astro.props;
 const sortedPosts = posts.sort(
-  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 
 const pageTitle = getTagLabel(tag as string);
 ---
 
 <Layout title={`${pageTitle} - Build Little Worlds`}>
-  <h1>{pageTitle}</h1>
-  <ul class="post-list">
+  <h1 class="text-3xl font-bold mb-6">{pageTitle}</h1>
+  <ul class="space-y-4">
     {
       sortedPosts.map((post) => (
-        <li>
-          <a href={`/blog/${post.slug}`}>{post.data.title}</a>
+        <li class="bg-white bg-opacity-80 p-3 rounded transition-transform duration-300 hover:translate-x-1">
+          <a
+            href={`/blog/${post.slug}`}
+            class="text-gray-700 hover:text-gray-900 text-lg font-medium"
+          >
+            {post.data.title}
+          </a>
         </li>
       ))
     }
