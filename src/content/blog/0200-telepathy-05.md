@@ -18,7 +18,7 @@ The R-pentomino is a methuselah pattern in the Game of Life, known for its chaot
 ```
 
 [R-pentomino Simulator Link](https://buildlittleworlds.github.io/game-of-life-app/spaceships.html)
-(Go to the link and select "R-pentomino")
+(Not functional yet)
 
 This simple initial configuration evolves through 1103 generations before stabilizing, producing a complex array of stable, oscillating, and moving patterns.
 
