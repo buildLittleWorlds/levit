@@ -1,5 +1,5 @@
 ---
-title: "Chapter 7: Rhythmic Information Exchange Between NFR Networks: The Beacon Model"
+title: "Chapter 7: Rhythmic Information Exchange Between NFR Networks, the Beacon Model"
 pubDate: 2024-09-24
 description: "Rhythmic Information Exchange Between NFR Networks: The Beacon Model"
 tags: ["+telepathy"]

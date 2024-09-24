@@ -1,5 +1,5 @@
 ---
-title: "Chapter 8: Symmetry and Balance in NFR Network Dynamics: The Toad Model"
+title: "Chapter 8: Symmetry and Balance in NFR Network Dynamics, the Toad Model"
 pubDate: 2024-09-24
 description: "Symmetry and Balance in NFR Network Dynamics: The Toad Model"
 tags: ["+telepathy"]

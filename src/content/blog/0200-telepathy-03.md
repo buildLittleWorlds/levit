@@ -1,5 +1,5 @@
 ---
-title: "Chapter 3: Nested Cognitive Structures in Neural Field Resonance: The Beehive Model"
+title: "Chapter 3: Nested Cognitive Structures in Neural Field Resonance, the Beehive Model"
 pubDate: 2024-09-24
 description: "Nested Cognitive Structures in Neural Field Resonance: The Beehive Model"
 tags: ["+telepathy"]

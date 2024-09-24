@@ -1,5 +1,5 @@
 ---
-title: "Chapter 5: Chaos and Emergence in Expanding NFR Networks: The R-pentomino Model"
+title: "Chapter 5: Chaos and Emergence in Expanding NFR Networks, the R-pentomino Model"
 pubDate: 2024-09-24
 description: "Chaos and Emergence in Expanding NFR Networks: The R-pentomino Model"
 tags: ["+telepathy"]

@@ -1,5 +1,5 @@
 ---
-title: "Chapter 12, Part 1: Unreachable States in NFR Networks: The Garden of Eden Paradigm"
+title: "Chapter 12, Part 1: Unreachable States in NFR Networks, the Garden of Eden Paradigm"
 pubDate: 2024-09-24
 description: "Unreachable States in NFR Networks: The Garden of Eden Paradigm"
 tags: ["+telepathy"]

@@ -1,5 +1,5 @@
 ---
-title: "News Flash: The Millbrook Cluster: A New Frontier in Human Cognition"
+title: "News Flash: The Millbrook Cluster, a New Frontier in Human Cognition"
 pubDate: 2024-09-24
 description: "The Millbrook Cluster: A New Frontier in Human Cognition"
 tags: ["+telepathy"]

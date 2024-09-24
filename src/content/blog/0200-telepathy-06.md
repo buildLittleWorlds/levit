@@ -1,5 +1,5 @@
 ---
-title: "Chapter 6: Sustained Idea Generation in Mature NFR Networks: The Gosper Glider Gun Model"
+title: "Chapter 6: Sustained Idea Generation in Mature NFR Networks, the Gosper Glider Gun Model"
 pubDate: 2024-09-24
 description: "Sustained Idea Generation in Mature NFR Networks: The Gosper Glider Gun Model"
 tags: ["+telepathy"]

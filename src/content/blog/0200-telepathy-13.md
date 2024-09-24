@@ -1,5 +1,5 @@
 ---
-title: "Chapter 13: Cognitive Computation: Glider Logic Gates in NFR Networks"
+title: "Chapter 13: Cognitive Computation, Glider Logic Gates in NFR Networks"
 pubDate: 2024-09-24
 description: "Cognitive Computation: Glider Logic Gates in NFR Networks"
 tags: ["+telepathy"]

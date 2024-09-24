@@ -1,5 +1,5 @@
 ---
-title: "Chapter 9: Long-Term Cyclical Behaviors in Global NFR Networks: The Pentadecathlon Model"
+title: "Chapter 9: Long-Term Cyclical Behaviors in Global NFR Networks, the Pentadecathlon Model"
 pubDate: 2024-09-24
 description: "Long-Term Cyclical Behaviors in Global NFR Networks: The Pentadecathlon Model"
 tags: ["+telepathy"]

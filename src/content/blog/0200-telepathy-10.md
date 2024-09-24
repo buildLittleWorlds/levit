@@ -1,5 +1,5 @@
 ---
-title: "Chapter 10: Unforeseen Consequences of Global NFR Expansion: The Acorn Model"
+title: "Chapter 10: Unforeseen Consequences of Global NFR Expansion, the Acorn Model"
 pubDate: 2024-09-24
 description: "Unforeseen Consequences of Global NFR Expansion: The Acorn Model"
 tags: ["+telepathy"]

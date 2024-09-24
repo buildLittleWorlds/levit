@@ -1,5 +1,5 @@
 ---
-title: "Chapter 4: Complex Thought Structures in Motion: The Lightweight Spaceship Model of Neural Field Resonance"
+title: "Chapter 4: Complex Thought Structures in Motion, the Lightweight Spaceship Model of Neural Field Resonance"
 pubDate: 2024-09-24
 description: "Complex Thought Structures in Motion: The Lightweight Spaceship Model of Neural Field Resonance"
 tags: ["+telepathy"]
