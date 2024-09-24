@@ -1,6 +1,6 @@
 ---
 title: "Chapter 14: Cognitive Catalysts in NFR Networks: The Herschel Pattern Paradigm"
-pubDate: 2024-10-15
+pubDate: 2024-09-24
 description: "Cognitive Catalysts in NFR Networks: The Herschel Pattern Paradigm"
 tags: ["+telepathy"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Chapter 11: Transient Cognitive Structures in Expanded NFR Networks: The Diehard Model"
-pubDate: 2024-10-15
+pubDate: 2024-09-24
 description: "Transient Cognitive Structures in Expanded NFR Networks: The Diehard Model"
 tags: ["+telepathy"]
 ---

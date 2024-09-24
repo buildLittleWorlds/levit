@@ -1,6 +1,6 @@
 ---
 title: "Chapter 15: Memory Persistence in NFR Networks: The Memory Cell Paradigm"
-pubDate: 2024-10-15
+pubDate: 2024-09-24
 description: "Memory Persistence in NFR Networks: The Memory Cell Paradigm"
 tags: ["+telepathy"]
 ---

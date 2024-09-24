@@ -1,6 +1,6 @@
 ---
 title: "Chapter 12, Part 2: Cognitive Gardens of Eden: Implications for Telepathic Frontiers"
-pubDate: 2024-10-15
+pubDate: 2024-09-24
 description: "Cognitive Gardens of Eden: Implications for Telepathic Frontiers"
 tags: ["+telepathy"]
 ---

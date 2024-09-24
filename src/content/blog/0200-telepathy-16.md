@@ -1,6 +1,6 @@
 ---
 title: "Conclusion"
-pubDate: 2024-10-15
+pubDate: 2024-09-24
 description: "The Memory Cell Paradigm in NFR Networks"
 tags: ["+telepathy"]
 ---
