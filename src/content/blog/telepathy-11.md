@@ -60,7 +60,7 @@ In our next installment, we will explore the "Garden of Eden" pattern and its re
 
 References:
 
-Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.
-Rodriguez, A. (2035). Transient Cognitive Attractors: The role of ephemeral structures in expanded NFR network dynamics. Consciousness and Cognition, 89, 103-121.
-Tanaka, Y. (2035). Transient Markov blankets in finite-lifetime complex systems. Physical Review E, 111(3), 032404.
+Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.<br>
+Rodriguez, A. (2035). Transient Cognitive Attractors: The role of ephemeral structures in expanded NFR network dynamics. Consciousness and Cognition, 89, 103-121.<br>
+Tanaka, Y. (2035). Transient Markov blankets in finite-lifetime complex systems. Physical Review E, 111(3), 032404.  
 Vasquez, E., et al. (2035). Cognitive ephemerals: Diehard-like transient structures in expanded Neural Field Resonance networks. Frontiers in Consciousness Studies, 12, 781.

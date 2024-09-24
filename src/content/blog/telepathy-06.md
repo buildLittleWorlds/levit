@@ -63,7 +63,7 @@ In our next installment, we will explore the "Beacon" pattern and its relevance 
 
 References:
 
-Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.
-Nakamura, H. (2030). Cognitive Generator Networks: Specialization and idea production in mature NFR systems. Trends in Cognitive Sciences, 34(5), 312-326.
-Patel, A. (2030). Generative Markov blankets in self-sustaining complex systems. Proceedings of the National Academy of Sciences, 127(15), 8734-8743.
+Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.  
+Nakamura, H. (2030). Cognitive Generator Networks: Specialization and idea production in mature NFR systems. Trends in Cognitive Sciences, 34(5), 312-326.  
+Patel, A. (2030). Generative Markov blankets in self-sustaining complex systems. Proceedings of the National Academy of Sciences, 127(15), 8734-8743.  
 Vasquez, E., et al. (2030). Gosper Glider Gun-like idea generation in mature Neural Field Resonance networks. Collective Intelligence Dynamics, 2(3), 178-195.

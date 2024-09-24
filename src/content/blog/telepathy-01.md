@@ -53,7 +53,7 @@ In our next installment, we will explore the "Glider" pattern and its potential 
 
 References:
 
-Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.
-Friston, K., et al. (2025). Oscillatory Markov blankets in biological systems. Nature Neuroscience, 28(5), 623-631.
-Nakamura, H. (2025). Oscillatory Information Encoding in Neural Field Resonance. Journal of Cognitive Harmonics, 7(2), 112-128.
+Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.  
+Friston, K., et al. (2025). Oscillatory Markov blankets in biological systems. Nature Neuroscience, 28(5), 623-631.  
+Nakamura, H. (2025). Oscillatory Information Encoding in Neural Field Resonance. Journal of Cognitive Harmonics, 7(2), 112-128.   
 Vasquez, E., et al. (2025). Cognitive oscillators in twin subjects during Neural Field Resonance events. Journal of Cognitive Resonance, 3(1), 45-67.

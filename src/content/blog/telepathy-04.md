@@ -55,7 +55,7 @@ In our next installment, we will explore the "R-pentomino" pattern and its poten
 
 References:
 
-Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.
-Rodriguez, A. (2028). Cognitive Plasticity in Transit: Adaptive thought structures in Neural Field Resonance. Cognitive Neuroscience, 19(3), 245-267.
-Tanaka, Y. (2028). Multi-state dynamic Markov blankets in complex adaptive systems. Nature Physics, 24(7), 891-899.
+Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.  
+Rodriguez, A. (2028). Cognitive Plasticity in Transit: Adaptive thought structures in Neural Field Resonance. Cognitive Neuroscience, 19(3), 245-267.  
+Tanaka, Y. (2028). Multi-state dynamic Markov blankets in complex adaptive systems. Nature Physics, 24(7), 891-899.  
 Vasquez, E., et al. (2028). LWSS-like propagation of complex philosophical constructs in Neural Field Resonance networks. Frontiers in Cognitive Resonance, 3, 42.

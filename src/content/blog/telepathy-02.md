@@ -53,7 +53,7 @@ In our next installment, we will explore the "Beehive" pattern and its potential
 
 References:
 
-Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.
-Lehmann, S. (2026). Mobile Markov blankets in dynamic systems. Physical Review E, 103(3), 032415.
-Ramirez, J. (2026). The Cognitive Momentum Hypothesis: Soliton-like behavior in Neural Field Resonance. Consciousness and Cognition, 52, 212-228.
+Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.  
+Lehmann, S. (2026). Mobile Markov blankets in dynamic systems. Physical Review E, 103(3), 032415.  
+Ramirez, J. (2026). The Cognitive Momentum Hypothesis: Soliton-like behavior in Neural Field Resonance. Consciousness and Cognition, 52, 212-228.  
 Vasquez, E., et al. (2026). Glider-like thought propagation in Neural Field Resonance networks. Cognitive Field Dynamics, 2(3), 78-95.

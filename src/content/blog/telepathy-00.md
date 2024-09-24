@@ -44,7 +44,8 @@ As we progress through this series, we will explore more complex Game of Life pa
 Our next installment will focus on the Blinker pattern and its possible relationship to observed oscillatory behaviors in shared cognitive fields. We encourage readers to consider the implications of these findings on our understanding of consciousness, identity, and the nature of human connection.
 
 References:
-Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.
-Friston, K. (2013). Life as we know it. Journal of the Royal Society Interface, 10(86), 20130475.
-Pearl, J. (1988). Probabilistic Reasoning in Intelligent Systems. Morgan Kaufmann.
+
+Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.  
+Friston, K. (2013). Life as we know it. Journal of the Royal Society Interface, 10(86), 20130475.  
+Pearl, J. (1988). Probabilistic Reasoning in Intelligent Systems. Morgan Kaufmann.  
 Vasquez, E., et al. (2024). Stable cognitive structures in neural field resonance events: A quantitative EEG study. Journal of Anomalous Cognition, 15(2), 112-128.

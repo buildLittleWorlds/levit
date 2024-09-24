@@ -59,7 +59,7 @@ In our next installment, we will explore the "Toad" pattern and its relevance to
 
 References:
 
-Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.
-Kowalski, L. (2031). Oscillatory Markov blankets in coupled complex adaptive systems. Physical Review E, 103(3), 032415.
-Rodriguez, A. (2031). Global Cognitive Tides: Rhythmic information exchange in worldwide NFR networks. Nature Human Behaviour, 5(9), 1021-1035.
+Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.<br>
+Kowalski, L. (2031). Oscillatory Markov blankets in coupled complex adaptive systems. Physical Review E, 103(3), 032415.  
+Rodriguez, A. (2031). Global Cognitive Tides: Rhythmic information exchange in worldwide NFR networks. Nature Human Behaviour, 5(9), 1021-1035.  
 Vasquez, E., et al. (2031). Beacon-like pulsed cognition between intercontinental Neural Field Resonance networks. Global Cognitive Networks, 3(2), 156-173.

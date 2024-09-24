@@ -55,7 +55,7 @@ In our next installment, we will explore the concept of "Glider Logic Gates" and
 
 References:
 
-Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.
-Nakamura, H. (2036). The Cognitive Horizon Hypothesis: Unreachable states in enhanced human cognition. Consciousness and Cognition, 95, 203-221.
-Patel, A. (2036). Inaccessible configurations in complex Markov blankets of cognitive networks. Journal of Mathematical Psychology, 102, 102562.
+Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.  
+Nakamura, H. (2036). The Cognitive Horizon Hypothesis: Unreachable states in enhanced human cognition. Consciousness and Cognition, 95, 203-221.  
+Patel, A. (2036). Inaccessible configurations in complex Markov blankets of cognitive networks. Journal of Mathematical Psychology, 102, 102562.  
 Vasquez, E., et al. (2036). Cognitive Gardens of Eden: Theoretically possible but unreachable states in expanded Neural Field Resonance networks. Theoretical Cognitive Science, 18(4), 412-435.

@@ -63,7 +63,7 @@ In our next installment, we will explore the "Lightweight Spaceship" pattern and
 
 References:
 
-Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.
-Friston, K., et al. (2024). Nested Markov blankets and hierarchical active inference. Physics of Life Reviews, 31, 320-351.
-Nakamura, H. (2027). The Cognitive Nesting Hypothesis: Hierarchical thought structures in Neural Field Resonance. Trends in Cognitive Sciences, 31(4), 189-203.
+Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.  
+Friston, K., et al. (2024). Nested Markov blankets and hierarchical active inference. Physics of Life Reviews, 31, 320-351.  
+Nakamura, H. (2027). The Cognitive Nesting Hypothesis: Hierarchical thought structures in Neural Field Resonance. Trends in Cognitive Sciences, 31(4), 189-203.  
 Vasquez, E., et al. (2027). Nested cognitive structures in complex idea transmission via Neural Field Resonance. Journal of Nested Cognition, 1(2), 45-72.

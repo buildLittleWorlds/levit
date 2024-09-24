@@ -96,6 +96,6 @@ Thank you for joining us on this extraordinary journey through the frontiers of 
 
 References:
 
-Rodriguez, A. (2040). Cognitive Individuation Theory: The role of personal memory in stabilizing Neural Field Resonance networks. Nature Human Behaviour, 14(5), 423-439.
-Tanaka, Y. (2040). Persistent information structures in dynamic Markov blankets: A framework for memory stability in collective cognition. Neural Computation, 52(8), 1678-1701.
+Rodriguez, A. (2040). Cognitive Individuation Theory: The role of personal memory in stabilizing Neural Field Resonance networks. Nature Human Behaviour, 14(5), 423-439.  
+Tanaka, Y. (2040). Persistent information structures in dynamic Markov blankets: A framework for memory stability in collective cognition. Neural Computation, 52(8), 1678-1701.  
 Vasquez, E., et al. (2040). Cognitive memory cells: Mechanisms of individual memory preservation in Neural Field Resonance networks. Cognitive Preservation, 7(3), 201-218.

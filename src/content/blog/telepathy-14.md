@@ -73,6 +73,6 @@ In our final installment, we will explore the concept of "Memory Cells" and thei
 
 References:
 
-Patel, A. (2039). Catalytic Markov blankets in evolving cognitive systems: A framework for rapid network transformation. Journal of Complex Networks, 27(3), 301-318.
-Ramirez, J. (2039). Cognitive Catalyst Theory: Mechanisms of rapid adaptation in Neural Field Resonance networks. Trends in Cognitive Sciences, 43(8), 612-627.
+Patel, A. (2039). Catalytic Markov blankets in evolving cognitive systems: A framework for rapid network transformation. Journal of Complex Networks, 27(3), 301-318.  
+Ramirez, J. (2039). Cognitive Catalyst Theory: Mechanisms of rapid adaptation in Neural Field Resonance networks. Trends in Cognitive Sciences, 43(8), 612-627.  
 Vasquez, E., et al. (2039). Cognitive Herschels: Catalytic structures in the evolution of collective intelligence. Catalytic Cognition, 2(4), 178-195.

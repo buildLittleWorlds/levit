@@ -65,6 +65,6 @@ In our next installment, we will explore the "Herschel" pattern and its potentia
 
 References:
 
-Nakamura, H. (2038). Cognitive Computation Emergence Theory: The evolution of computational structures in mature NFR networks. Nature Machine Intelligence, 10(4), 267-283.
-Tanaka, Y. (2038). Computational Markov blankets in cognitive networks: A framework for emergent logical operations. Neural Computation, 50(6), 1456-1478.
+Nakamura, H. (2038). Cognitive Computation Emergence Theory: The evolution of computational structures in mature NFR networks. Nature Machine Intelligence, 10(4), 267-283.  
+Tanaka, Y. (2038). Computational Markov blankets in cognitive networks: A framework for emergent logical operations. Neural Computation, 50(6), 1456-1478.  
 Vasquez, E., et al. (2038). Cognitive logic gates: Emergent computational structures in Neural Field Resonance networks. Computational Consciousness, 5(2), 112-135.

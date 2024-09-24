@@ -62,7 +62,7 @@ In our next installment, we will explore the "Acorn" pattern and its relevance t
 
 References:
 
-Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.
-Nakamura, H. (2033). Cognitive Seasons: Long-term cyclical optimization in global NFR networks. Nature Human Behaviour, 7(6), 512-527.
-Patel, A. (2033). Multi-phase Markov blankets in periodic complex systems. Physical Review E, 107(5), 054302.
+Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.<br>
+Nakamura, H. (2033). Cognitive Seasons: Long-term cyclical optimization in global NFR networks. Nature Human Behaviour, 7(6), 512-527.<br>
+Patel, A. (2033). Multi-phase Markov blankets in periodic complex systems. Physical Review E, 107(5), 054302.  
 Vasquez, E., et al. (2033). Pentadecathlon-like meta-cycles in intercontinental Neural Field Resonance networks. Trends in Cognitive Sciences, 37(8), 678-694.

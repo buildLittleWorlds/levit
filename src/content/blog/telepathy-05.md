@@ -56,7 +56,7 @@ In our next installment, we will explore the "Gosper Glider Gun" pattern and its
 
 References:
 
-Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.
-Kowalski, L. (2029). Chaotic Markov blankets in complex adaptive systems. Chaos, 39(2), 025101.
-Ramirez, J. (2029). Chaotic Cognitive Expansion: A model for explosive growth in Neural Field Resonance networks. Nature Human Behaviour, 3(8), 823-835.
+Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.  
+Kowalski, L. (2029). Chaotic Markov blankets in complex adaptive systems. Chaos, 39(2), 025101.  
+Ramirez, J. (2029). Chaotic Cognitive Expansion: A model for explosive growth in Neural Field Resonance networks. Nature Human Behaviour, 3(8), 823-835.  
 Vasquez, E., et al. (2029). R-pentomino-like dynamics in the expanding Millbrook NFR cluster. Emergent Cognitive Phenomena, 1(1), 1-15.

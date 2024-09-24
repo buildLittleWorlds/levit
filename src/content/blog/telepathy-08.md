@@ -58,7 +58,7 @@ In our next installment, we will explore the "Pentadecathlon" pattern and its re
 
 References:
 
-Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.
-Ramirez, J. (2032). Symmetric Cognitive Oscillation: Efficiency through balanced load distribution in NFR networks. Cognitive Science, 56(4), 389-412.
-Tanaka, Y. (2032). Symmetric Markov blankets in oscillating complex systems. Physical Review Letters, 128(18), 184301.
+Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.  
+Ramirez, J. (2032). Symmetric Cognitive Oscillation: Efficiency through balanced load distribution in NFR networks. Cognitive Science, 56(4), 389-412.  
+Tanaka, Y. (2032). Symmetric Markov blankets in oscillating complex systems. Physical Review Letters, 128(18), 184301.  
 Vasquez, E., et al. (2032). Toad-like symmetry in cognitive load distribution within mature Neural Field Resonance networks. Symmetry in Cognitive Systems, 4(3), 267-285.

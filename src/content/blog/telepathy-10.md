@@ -60,7 +60,7 @@ In our next installment, we will explore the "Diehard" pattern and its relevance
 
 References:
 
-Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.
-Kowalski, L. (2034). Emergent complexity in evolving Markov blankets of cognitive networks. Chaos, Solitons & Fractals, 159, 112103.
-Ramirez, J. (2034). Cognitive Complexity Cascades: Unpredictable evolution in expanding NFR networks. Nature Human Behaviour, 8(9), 1024-1039.
+Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.  
+Kowalski, L. (2034). Emergent complexity in evolving Markov blankets of cognitive networks. Chaos, Solitons & Fractals, 159, 112103.  
+Ramirez, J. (2034). Cognitive Complexity Cascades: Unpredictable evolution in expanding NFR networks. Nature Human Behaviour, 8(9), 1024-1039.  
 Vasquez, E., et al. (2034). Acorn-like cognitive bloom events in early NFR expansion trials. Emerging Risks in Cognitive Enhancement, 5(3), 287-305.
