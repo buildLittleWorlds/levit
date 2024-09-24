@@ -8,6 +8,7 @@ const { title } = Astro.props;
 
 const topTags = tags.filter((tag) => tag.position === "top");
 const sideTags = tags.filter((tag) => tag.position === "side");
+const golTags = tags.filter((tag) => tag.position === "gol");
 ---
 
 <html lang="en">
@@ -62,6 +63,29 @@ const sideTags = tags.filter((tag) => tag.position === "side");
             ))
           }
         </ul>
+        <h3 class="font-bold mb-3">Game of Life</h3>
+        <ul>
+          {
+            golTags.map((tag) => (
+              <li class="mb-3">
+                <a
+                  href={`/tag/${tag.slug}`}
+                  class="text-gray-700 hover:text-gray-900 hover:underline transition-colors duration-300"
+                >
+                  {tag.label}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+        <h3 class="font-bold mb-3">
+          <a
+            href="https://buildlittleworlds.github.io/game-of-life-app/"
+            target="_blank"
+            class="text-gray-700 hover:text-gray-900 hover:underline transition-colors duration-300"
+            >Play the Game of Life</a
+          >
+        </h3>
       </aside>
     </div>
     <Footer />
