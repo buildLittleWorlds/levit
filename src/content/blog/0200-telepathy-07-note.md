@@ -11,9 +11,11 @@ As we delve deeper into our exploration of Neural Field Resonance through the le
 
 Recent Patterns:
 
-5. [The Lightweight Spaceship (LWSS)]: A more complex moving pattern that maintains its structure while traveling.
-6. [The R-pentomino]: A small initial pattern that evolves chaotically over a long period before stabilizing.
-7. [The Gosper Glider Gun]: A pattern that repeatedly produces moving "glider" patterns.
+5. The Lightweight Spaceship (LWSS): A more complex moving pattern that maintains its structure while traveling.
+6. The R-pentomino: A small initial pattern that evolves chaotically over a long period before stabilizing.
+7. The Gosper Glider Gun: A pattern that repeatedly produces moving "glider" patterns.
+
+As before, I encourage you to google search (or [perplexity search](https://www.perplexity.ai/)) those pattern names and spend some time playing with them in a Game of Life simulator such as [this one](https://playgameoflife.com/).
 
 How are these different from earlier patterns?
 

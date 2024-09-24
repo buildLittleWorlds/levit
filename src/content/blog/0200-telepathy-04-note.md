@@ -15,12 +15,12 @@ By mapping complex scientific concepts onto speculative ideas, we're not just cr
 
 Let's recap the Game of Life patterns we've explored so far:
 
-1. [The Block]: A stable 2x2 square, unchanging and resolute.
-2. [The Blinker]: A simple oscillator, alternating between vertical and horizontal states.
-3. [The Glider]: A pattern that moves diagonally across the grid, maintaining its shape.
-4. [The Beehive]: A more complex still life, showcasing nested structures.
+1. The Block: A stable 2x2 square, unchanging and resolute.
+2. The Blinker: A simple oscillator, alternating between vertical and horizontal states.
+3. The Glider: A pattern that moves diagonally across the grid, maintaining its shape.
+4. The Beehive: A more complex still life, showcasing nested structures.
 
-I encourage you to click on each of these links and spend some time playing with these patterns in a Game of Life simulator. Watch how they behave, interact, and evolve. As you do, consider how each pattern's behavior might map onto aspects of your imagined world—be it the stability of certain thoughts, the rhythmic nature of shared consciousness, the propagation of ideas, or the nested complexity of mental constructs.
+I encourage you to google search (or [perplexity search](https://www.perplexity.ai/)) those pattern names and spend some time playing with them in a Game of Life simulator such as [this one](https://playgameoflife.com/). Watch how they behave, interact, and evolve. As you do, consider how each pattern's behavior might map onto aspects of your imagined world—be it the stability of certain thoughts, the rhythmic nature of shared consciousness, the propagation of ideas, or the nested complexity of mental constructs.
 
 This process of mapping structured, "real" concepts onto imaginative ideas is at the heart of much great speculative fiction. It's how authors like Ted Chiang can write stories about time travel that feel scientifically plausible, or how N.K. Jemisin can create a world with a geologically active supercontinent that feels eerily real.
 
