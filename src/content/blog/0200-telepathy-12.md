@@ -53,7 +53,7 @@ As researchers, we find ourselves at the intersection of neuroscience, philosoph
 
 In our next installment, we will explore the concept of "Glider Logic Gates" and their potential parallels in the computational aspects of expanded NFR networks. As we continue to unravel these extraordinary theoretical constructs, we remain committed to advancing our understanding of the ultimate frontiers of human cognition.
 
-References:
+**References**
 
 Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.  
 Nakamura, H. (2036). The Cognitive Horizon Hypothesis: Unreachable states in enhanced human cognition. Consciousness and Cognition, 95, 203-221.  

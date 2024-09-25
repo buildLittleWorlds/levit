@@ -51,7 +51,7 @@ Future research will need to address several key questions:
 
 In our next installment, we will explore the "Glider" pattern and its potential relevance to the propagation of thoughts across networks of NFR-capable individuals. As we delve deeper into these phenomena, we continue to unravel the complex interplay between mathematics, neuroscience, and the emerging field of cognitive resonance studies.
 
-References:
+**References**
 
 Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.  
 Friston, K., et al. (2025). Oscillatory Markov blankets in biological systems. Nature Neuroscience, 28(5), 623-631.  

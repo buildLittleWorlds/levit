@@ -43,7 +43,7 @@ As we progress through this series, we will explore more complex Game of Life pa
 
 Our next installment will focus on the Blinker pattern and its possible relationship to observed oscillatory behaviors in shared cognitive fields. We encourage readers to consider the implications of these findings on our understanding of consciousness, identity, and the nature of human connection.
 
-References:
+**References**
 
 Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.  
 Friston, K. (2013). Life as we know it. Journal of the Royal Society Interface, 10(86), 20130475.  

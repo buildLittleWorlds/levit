@@ -2,7 +2,6 @@
 import "../styles/tailwind.css";
 import Footer from "../components/Footer.astro";
 import { tags } from "../data/tags";
-import { Image } from "astro:assets";
 
 const { title } = Astro.props;
 
@@ -86,8 +85,16 @@ const golTags = tags.filter((tag) => tag.position === "gol");
             >Play the Game of Life</a
           >
         </h3>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <a href={`/tag/memorize`}
+          ><h3 class="font-bold mb-3">The Only Thing Left</h3></a
+        >
       </aside>
     </div>
-    <Footer />
   </body>
+  <Footer />
 </html>

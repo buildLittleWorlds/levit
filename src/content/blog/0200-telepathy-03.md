@@ -61,7 +61,7 @@ This finding raises several important questions for future research:
 
 In our next installment, we will explore the "Lightweight Spaceship" pattern and its potential relevance to the transmission of more dynamic, multi-faceted thought constructs in NFR-capable populations. As we continue to unravel these mysteries, we edge closer to a comprehensive understanding of the architecture of shared cognitive spaces and their potential to revolutionize human knowledge exchange.
 
-References:
+**References**
 
 Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.  
 Friston, K., et al. (2024). Nested Markov blankets and hierarchical active inference. Physics of Life Reviews, 31, 320-351.  

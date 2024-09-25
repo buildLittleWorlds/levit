@@ -57,7 +57,7 @@ The emergence of coordinated NFR networks across continents has caught the atten
 
 In our next installment, we will explore the "Toad" pattern and its relevance to the emerging symmetries in cognitive load distribution within and between NFR networks. As we continue to study these extraordinary developments, we remain committed to fostering global understanding and cooperation in the face of this unprecedented evolution in human cognition.
 
-References:
+**References**
 
 Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.<br>
 Kowalski, L. (2031). Oscillatory Markov blankets in coupled complex adaptive systems. Physical Review E, 103(3), 032415.  

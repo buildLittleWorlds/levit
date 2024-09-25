@@ -19,9 +19,48 @@ const { Content } = await entry.render();
 ---
 
 <Layout title={entry.data.title}>
-  <article class="prose lg:prose-xl">
-    <h1 class="text-3xl font-bold mb-4">{entry.data.title}</h1>
-    <p class="text-gray-600 italic mb-6">{entry.data.description}</p>
-    <Content />
+  <article class="prose lg:prose-lg max-w-none">
+    <h1 class="text-3xl font-bold mb-2 text-gray-800">{entry.data.title}</h1>
+    <p class="text-gray-600 italic mb-8 text-lg">{entry.data.description}</p>
+    <div class="content">
+      <Content />
+    </div>
   </article>
 </Layout>
+
+<style>
+  .prose {
+    @apply text-gray-800;
+  }
+  .prose h1 {
+    @apply text-3xl font-bold mb-4 text-gray-800;
+  }
+  .prose h2 {
+    @apply text-2xl font-semibold mt-8 mb-4 text-gray-700;
+  }
+  .prose h3 {
+    @apply text-xl font-medium mt-6 mb-3 text-gray-600;
+  }
+  .prose p {
+    @apply mb-4 leading-relaxed;
+  }
+  .prose ul,
+  .prose ol {
+    @apply mb-4 pl-5;
+  }
+  .prose li {
+    @apply mb-2;
+  }
+  .prose pre {
+    @apply bg-gray-100 p-4 rounded-lg overflow-x-auto mb-4;
+  }
+  .prose code {
+    @apply text-sm;
+  }
+  .prose a {
+    @apply text-blue-600 hover:underline;
+  }
+  .prose blockquote {
+    @apply border-l-4 border-gray-300 pl-4 italic my-4;
+  }
+</style>

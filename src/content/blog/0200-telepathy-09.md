@@ -60,7 +60,7 @@ As researchers, we have a responsibility to thoroughly understand these meta-cyc
 
 In our next installment, we will explore the "Acorn" pattern and its relevance to the potential long-term, unforeseen consequences of global NFR expansion. As we continue to study these extraordinary phenomena, we remain committed to advancing our understanding while advocating for responsible and ethical development of these transformative technologies.
 
-References:
+**References**
 
 Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.<br>
 Nakamura, H. (2033). Cognitive Seasons: Long-term cyclical optimization in global NFR networks. Nature Human Behaviour, 7(6), 512-527.<br>

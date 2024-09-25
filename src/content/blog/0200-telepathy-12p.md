@@ -57,7 +57,7 @@ As we stand on the brink of these speculative cognitive frontiers, we must proce
 
 In our ongoing exploration of NFR networks and telepathic possibilities, we remain committed to pushing the boundaries of human knowledge while always keeping sight of our ethical responsibilities and the profound implications of our work for the future of humanity.
 
-References:
+**References**
 
 Ramirez, J. (2037). The Cognitive Xenomorphism Hypothesis: Alien modes of thought in unreachable NFR states. Trends in Cognitive Sciences, 41(3), 189-205.  
 Rodriguez, A. (2037). The Metacognitive Transcendence Model: Collective self-awareness in cognitive Gardens of Eden. Nature Human Behaviour, 11(7), 678-691.  

@@ -53,7 +53,7 @@ This finding raises several important questions for future research:
 
 In our next installment, we will explore the "R-pentomino" pattern and its potential relevance to the emergence of chaotic, long-evolving thought structures in NFR phenomena. As we continue to unravel these mysteries, we edge closer to understanding the full potential and implications of this unprecedented form of human communication and cognition.
 
-References:
+**References**
 
 Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.  
 Rodriguez, A. (2028). Cognitive Plasticity in Transit: Adaptive thought structures in Neural Field Resonance. Cognitive Neuroscience, 19(3), 245-267.  

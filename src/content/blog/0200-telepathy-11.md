@@ -58,7 +58,7 @@ As researchers, we must grapple with the philosophical and practical implication
 
 In our next installment, we will explore the "Garden of Eden" pattern and its relevance to the concept of unreachable cognitive states in NFR networks. As we continue to unravel these extraordinary phenomena, we remain committed to advancing our understanding while advocating for thoughtful and ethical approaches to the development of these transformative technologies.
 
-References:
+**References**
 
 Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.<br>
 Rodriguez, A. (2035). Transient Cognitive Attractors: The role of ephemeral structures in expanded NFR network dynamics. Consciousness and Cognition, 89, 103-121.<br>

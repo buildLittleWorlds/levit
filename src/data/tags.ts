@@ -1,7 +1,7 @@
 export interface Tag {
   slug: string;
   label: string;
-  position: 'top' | 'side' | 'gol';
+  position: 'top' | 'side' | 'gol' | 'only';
 }
 
 export const tags: Tag[] = [
@@ -19,6 +19,7 @@ export const tags: Tag[] = [
   { slug: "textbook", label: "Textbook", position: 'gol' },
   { slug: "16-patterns", label: "16 Patterns", position: 'gol' },
   { slug: "+telepathy", label: "+ Telepathy", position: 'gol' },
+  { slug: "memorize", label: "Memorize", position: 'only' },
 ];
 
 export const getTagLabel = (slug: string): string => {

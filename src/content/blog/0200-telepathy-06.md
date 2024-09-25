@@ -61,7 +61,7 @@ The situation in Millbrook has now attracted global attention, with researchers,
 
 In our next installment, we will explore the "Beacon" pattern and its relevance to the rhythmic exchange of information between different NFR networks that have begun to emerge in other parts of the world. As we continue to study these extraordinary developments, we remain committed to advancing our understanding while prioritizing the well-being of all individuals involved.
 
-References:
+**References**
 
 Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.  
 Nakamura, H. (2030). Cognitive Generator Networks: Specialization and idea production in mature NFR systems. Trends in Cognitive Sciences, 34(5), 312-326.  

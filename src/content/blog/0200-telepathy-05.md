@@ -54,7 +54,7 @@ The situation in Millbrook has clearly moved beyond a purely academic exercise. 
 
 In our next installment, we will explore the "Gosper Glider Gun" pattern and its potential relevance to the sustained generation of new ideas within established NFR networks. As we continue to study these extraordinary events, we must remain committed to both scientific rigor and ethical responsibility.
 
-References:
+**References**
 
 Conway, J. (1970). The Game of Life. Scientific American, 223(4), 4-10.  
 Kowalski, L. (2029). Chaotic Markov blankets in complex adaptive systems. Chaos, 39(2), 025101.  
